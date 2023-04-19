@@ -34,5 +34,5 @@ Content
 1. Since this is hotel real data, all data elements pertaining hotel or customer identifications were deleted.
 2. Four Columns, 'name', 'email', 'phone number' and 'credit_card' have been artificially created and added to the dataset.
 
-Acknowledgements
+# Acknowledgements
 The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
